@@ -1,161 +1,290 @@
-<h1 align="center">Hi 👋, I'm Priyadharshini M</h1>
-<h3 align="center">Pre-Final Year CSE Student | Aspiring Software Engineer | Frontend & ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-📍 Coimbatore, Tamil Nadu &nbsp; | &nbsp;
-📧 <a href="mailto:kit27.cse42@gmail.com">kit27.cse42@gmail.com</a> &nbsp; | &nbsp;
-📞 9894028512
-</p>
+# Hi 👋, I'm Priyadharshini M
 
-<p align="center">
+### 💻 Frontend Developer • Java Full Stack Developer • AI & Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Java+Full+Stack+Developer;AI+Application+Builder;Problem+Solver;Open+Source+Learner" />
+
+<img src="https://komarev.com/ghpvc/?username=PRIYADHARSHINI-2126&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<p>
+<a href="mailto:kit27.cse42@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/PRIYADHARSHINI-2126">
-<img src="https://img.shields.io/github/followers/PRIYADHARSHINI-2126?label=Follow&style=for-the-badge&color=brightgreen"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
----
-
-## 🚀 Career Objective (Internship / Placement)
-
-🎯 A motivated **Computer Science Engineering student** seeking **Software Development / Frontend / ML internships**  
-💡 Strong foundation in **DSA, Web Development, and APIs**  
-🚀 Passionate about building **scalable, real-world applications**
+</div>
 
 ---
 
-## 🎓 Education
+# 👩‍💻 About Me
 
-**B.E. Computer Science and Engineering**  
-🏫 Kalaignarkarunanidhi Institute of Technology, Coimbatore  
-📅 2023 – 2027  
-📊 **CGPA:** 7.255 / 10  
+🎓 Final Year Computer Science Engineering Student at **Kalaignarkarunanidhi Institute of Technology, Coimbatore**
 
-📘 **Core Subjects:**  
-Computer Architecture | Computer Networks | Operating Systems | DBMS
+💻 Passionate Frontend Developer with experience in building responsive, interactive and user-friendly web applications.
 
----
+🚀 Enthusiastic about Full Stack Development, Artificial Intelligence, Machine Learning and Cloud Computing.
 
-## 💼 Internship Experience
+🌱 Currently learning
 
-### 🌐 Frontend Development Intern  
-**Livestream Technologies** — *June 2025*
+- Java Full Stack Development
+- Spring Boot
+- MERN Stack
+- System Design
+- Cloud Technologies
 
-- 🔹 Built **responsive web pages** using HTML, CSS, JavaScript  
-- 🔹 Improved **UI/UX design** and debugging skills  
-- 🔹 Worked on real-time project requirements  
+💼 Open to
 
----
-
-## 🚀 Projects
-
-### 🏦 Loan Approval Prediction System
-🔧 *Python | Logistic Regression | Flask | SQL | React*
-
-- ML-based system to predict loan approval eligibility  
-- Built REST APIs using Flask and tested via Postman  
-- Designed SQL schema for applicants and predictions  
-- Displayed prediction results with confidence scores  
+- Software Engineer Roles
+- Frontend Developer Roles
+- Full Stack Developer Roles
+- AI & ML Opportunities
 
 ---
 
-### 🧑‍🦯 Signboard Reader for the Visually Impaired
-🔧 *Python | OCR | Text-to-Speech*
+# 💼 Experience
 
-- Extracted text from signboards using Tesseract OCR  
-- Converted extracted text to real-time speech  
-- Enhanced accuracy via image preprocessing  
+## 🌐 Frontend Development Intern
 
----
+**Livestream Technologies** • June 2025
 
-### 🌆 AI-Powered Urban Safety Heatmap
-🔧 *Python | CV | NLP | FastAPI | React*
-
-- Integrated CCTV, IoT, GPS SOS & social media data  
-- Implemented anomaly detection using CV & NLP  
-- Built GIS-based heatmap dashboards  
-- Provided real-time alerts and safe route suggestions  
+- Developed responsive web pages using HTML, CSS and JavaScript.
+- Built interactive UI components to enhance user experience.
+- Collaborated with the development team on frontend implementation.
+- Debugged browser compatibility issues using Developer Tools.
+- Improved UI responsiveness and application performance.
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 Featured Projects
 
-### 👨‍💻 Programming Languages
+## 🤖 AI Coding Mentor
+
+AI-powered coding platform that delivers personalized programming guidance, intelligent code review and interview preparation.
+
+### Features
+
+- AI Code Review
+- Personalized Learning
+- Interview Preparation
+- Debugging Assistant
+- Learning Recommendations
+- Progress Tracking
+- User Authentication
+- REST APIs
+
+**Tech Stack**
+
+React.js • FastAPI • Python • MySQL • LLMs • NLP
+
+---
+
+## 💊 Medicine Reminder & Drug Interaction Checker
+
+Healthcare application that helps users manage prescriptions, receive reminders and detect dangerous drug interactions.
+
+### Features
+
+- JWT Authentication
+- Medicine Reminder
+- Drug Interaction Checker
+- Prescription Management
+- Notification System
+- Dashboard
+- Medication History
+
+**Tech Stack**
+
+Node.js • Express.js • MongoDB • JWT • OpenFDA API
+
+---
+
+## 🏦 Loan Approval Prediction System
+
+Machine Learning application for predicting loan eligibility using Logistic Regression.
+
+### Features
+
+- Logistic Regression Model
+- Flask REST API
+- SQL Database
+- React Dashboard
+- Prediction Confidence Score
+- API Testing with Postman
+
+**Tech Stack**
+
+Python • Flask • SQL • React.js • Machine Learning
+
+---
+
+## 👁️ Signboard Reader for the Visually Impaired
+
+Accessibility-focused application that extracts text from signboards and converts it into speech.
+
+### Features
+
+- OCR Text Extraction
+- Text-to-Speech
+- Image Preprocessing
+- Enhanced OCR Accuracy
+
+**Tech Stack**
+
+Python • OCR • Text-to-Speech
+
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
-### 🌐 Web Development
+## Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,express,fastapi"/>
 </p>
 
-### 🧠 Core Concepts
+## Programming Languages
+
 <p>
-<img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOPS-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-green?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
 </p>
 
-### ⚙️ Tools & Platforms
+## Database
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+## AI & Machine Learning
+
+Machine Learning • NLP • OCR • LLMs • Logistic Regression
 
 ---
 
-## 🏆 Competitive Programming
+# 🏆 Competitive Programming
 
 ### 🟧 LeetCode
-- ⭐ Max Rating: **1416**
-- 🧩 Solved: **100+ problems**
-- 🌍 Top **60.48% globally**
-- 🏅 Rank: **12,371**
 
-### 🟦 Codeforces
-- ⭐ Max Rating: **815**
-- 🧩 Solved: **20+ problems**
-- 🏅 Highest Rank: **12151**
+- ⭐ Max Rating: **1452**
+- 💻 Solved **300+ Problems**
+- 🌍 Top **60.48% Globally**
 
 ### 🟩 CodeChef
-- ⭐ Max Rating: **1289 (1★)**
-- 🧩 Solved: **568 problems**
-- 🌍 Global Rank: **10,380**
+
+- ⭐ **2★ Coder**
+- 💻 Solved **800+ Problems**
+- 🏅 Gold Badge
+- 🎯 Participated in **70+ Contests**
+
+### 🟦 Codeforces
+
+- ⭐ Max Rating: **917**
+- 🏅 Highest Rank: **12151**
 
 ---
 
-## 🏅 Achievements
+# 🏅 Achievements
 
-🏆 Gold Badge on CodeChef  
-💻 Solved **500+ problems** & participated in **60+ contests**  
-🚀 Built and deployed multiple real-world applications  
-☁️ Salesforce **Agentblazer Champion**
+🏆 Gold Badge in CodeChef for Problem Solving
 
----
+💻 Solved 1100+ Coding Problems across competitive programming platforms
 
-## 📜 Certifications
+🚀 Developed multiple AI-powered and Full Stack applications
 
-- 🟢 IBM – Web Development (2024)  
-- 🔵 Infosys – Fundamentals of Java (2023)  
-- 🔴 Red Hat – Linux Fundamentals (2023)  
-- 🟡 Google – Generative AI Studio (2025)  
+☁️ Salesforce Agentblazer Champion
 
 ---
 
-## 📊 GitHub Stats
+# 📜 Certifications
+
+- AWS Academy Cloud Foundations
+- IBM Web Development
+- IBM Fundamentals of Cloud Computing
+- Cisco Python Essentials
+- Infosys Fundamentals of Java
+- NPTEL Cloud Computing
+- Red Hat Linux Fundamentals
+- Generative AI Studio
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PRIYADHARSHINI-2126&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PRIYADHARSHINI-2126&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYADHARSHINI-2126&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYADHARSHINI-2126&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYADHARSHINI-2126&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PRIYADHARSHINI-2126&theme=algolia&margin-w=10&margin-h=10"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYADHARSHINI-2126&theme=react-dark"/>
 </p>
 
 ---
 
-## 🌟 Let's Connect
+# 🌱 Currently Learning
 
-📧 Email: **kit27.cse42@gmail.com**  
-📞 Phone: **9894028512**
+- Java Full Stack Development
+- Spring Boot
+- REST API Development
+- System Design
+- Artificial Intelligence
+- Cloud Computing
 
-⭐ *Actively seeking Internship & Placement opportunities — feel free to connect!*
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:kit27.cse42@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PRIYADHARSHINI-2126">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 "Crafting responsive web experiences today while building intelligent AI solutions for tomorrow."
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
